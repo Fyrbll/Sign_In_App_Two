@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sign In App Two</string>
+    <string name="account_type">com.citrus.oauth_citruspay</string>
+    <string name="get_authtoken_button">Get Authtoken</string>
+    <string name="add_account_button">Login</string>
+    <string name="action_settings">Settings</string>
+</resources>
